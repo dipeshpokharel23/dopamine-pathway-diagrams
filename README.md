@@ -87,6 +87,6 @@ If you use or adapt these diagrams, please cite:
 
 ---
 
-## 📌 Keywords (for SEO)
+
 
 Neuroscience, dopaminergic pathways, dopamine pathways, Parkinson’s disease, nigrostriatal, mesolimbic, mesocortical, basal ganglia, Dipesh Pokharel
