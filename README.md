@@ -16,10 +16,7 @@ All diagrams are provided as **PNG** (for slides) and **SVG** (for editing).
 ---
 
 ## 📁 Repository Contents
-
-### `/diagrams/`
 Publication-ready images:
-
 - `nigrostriatal_pathway.png` / `.svg`  
 - `mesolimbic_pathway.png` / `.svg`  
 - `mesocortical_pathway.png` / `.svg`  
@@ -86,7 +83,4 @@ If you use or adapt these diagrams, please cite:
 > Pokharel D. *Dopamine Pathway Diagrams*. GitHub repository: `https://github.com/USERNAME/dopamine-pathway-diagrams`
 
 ---
-
-
-
 Neuroscience, dopaminergic pathways, dopamine pathways, Parkinson’s disease, nigrostriatal, mesolimbic, mesocortical, basal ganglia, Dipesh Pokharel
